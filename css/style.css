@@ -1,0 +1,41 @@
+*{
+    box-sizing: border-box;
+    margin: 0px;
+    overflow: hidden;
+}
+.nav{
+    background-color: papayawhip;
+    width: 20%;
+    height:100vh;
+    float: left;
+
+}
+
+.header{
+    background-color: green;
+    width: 80%;
+    height: 20vh;
+    float: left;
+}
+.article{
+    background-color: white;
+    width: 60%;
+    height: 60vh;
+    float: left;
+}
+.aside{
+    background-color: grey;
+    width: 20%;
+    height: 80vh;
+    float: left;
+
+}
+.footer{
+    background-color: green;
+    width: 60%;
+    height: 20vh;
+    bottom: 0;
+    position: absolute;
+    
+    
+}
